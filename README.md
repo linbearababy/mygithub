@@ -1,10 +1,20 @@
 # mygithub
 I want to introduce some basic ways:
-(1) create a new repository
-(2) delete a repository
-(3) upload a picture
-(4) use md
 
+(1) create a new repository
+click "new" in the resposity
+
+(2) delete a repository
+in the stteings 
+
+(3) upload a picture:
+create a file and upload the picture inthe file, then copy the website of the picture which shows on the top of screen.
+
+(4) use md:
+writing description
+
+(5) create multiple files in one repository :
+using " / "
 
 
 
